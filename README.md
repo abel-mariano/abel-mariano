@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome! My name is Abel Mariano and I’m currently learning full stack web development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<!--
-**abel-mariano/abel-mariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏻‍💻 I am currently studying at Trybe 💚
+- 🌱 I’m currently learning full stack web development
+- 🤝 I’m looking to collaborate on full stack projects
+- 📫 How to reach me: abelwm25@gmail.com
+- 📫 Also on: [LinkedIn](https://www.linkedin.com/in/abelmariano/)
+- ⚡ Nice fact: 
 
-Here are some ideas to get you started:
+### Reach me on LinkedIn:
+<a href="https://www.linkedin.com/in/abelmariano/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<div style="display: inline_block">
+<img align="center" alt="Abel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Abel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Abel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Abel-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+<img align="center" alt="Abel-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+</div>
