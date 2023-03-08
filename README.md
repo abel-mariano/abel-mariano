@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning full stack web development
 - 🤝 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: abelwm25@gmail.com
-- 📫 Also on: [LinkedIn](https://www.linkedin.com/in/abelmariano/)
-- ⚡ Nice fact: 
+- ⚡ Nice fact: I also like to manipulate images
 
 ### Reach me on LinkedIn:
 <a href="https://www.linkedin.com/in/abelmariano/">
