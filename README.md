@@ -1,3 +1,8 @@
+<div style="display: inline_block">
+<img align="center" alt="abel-mariano" src="https://komarev.com/ghpvc/?username=abel-mariano&label=Profile%20views&color=0e75b6&style=flat">
+<img align="center" alt="abel-mariano" src="https://img.shields.io/github/followers/abel-mariano.svg?style=social&label=Follow&maxAge=2592000">
+</div>
+
 ### Welcome! My name is Abel Mariano and I’m currently learning full stack web development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 - 🧑🏻‍💻 I am currently studying at Trybe 💚
