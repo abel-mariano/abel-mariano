@@ -35,3 +35,7 @@
 <img align="center" alt="Abel-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title = "Illustrator">
 <img align="center" alt="Abel-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title = "Slack">
 </div>
+<br />
+
+![Abel Mariano GitHub stats](https://github-readme-stats.vercel.app/api?username=abel-mariano&theme=blue-green)
+![Abel Mariano GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abel-mariano&theme=blue-green)
