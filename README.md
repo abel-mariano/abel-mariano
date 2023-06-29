@@ -15,14 +15,16 @@
 
 ### Reach me on LinkedIn:
 <a href="https://www.linkedin.com/in/abelmariano/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 
 ### Languages and Tools:
 
 <div style="display: inline_block">
-<img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git">
+<a href="https://git-scm.com/" target="_blank">
+  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git">
+</a>
 <img align="center" alt="Bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "Bash">
 <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "Html5">
 <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "Css3">
