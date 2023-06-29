@@ -35,6 +35,7 @@
 <img align="center" alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title = "Photoshop">
 <img align="center" alt="illustrator" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title = "Illustrator">
 <img align="center" alt="Slack" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title = "Slack">
+<img align="center" alt="Slack" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title = "Trello">
 </div>
 <br />
 
