@@ -26,9 +26,10 @@
 <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "Html5">
 <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "Css3">
 <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "Javascript">
-<img align="center" alt="Node.Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NodeJs">
+<img align="center" alt="Node.Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node.Js">
 <img align="center" alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest">
 <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React">
+<img align="center" alt="React" height="30" src="https://github.com/abel-mariano/trybe-exercicios/assets/120792207/881678ee-b8d2-4c0b-977f-c5ed94faad81" title = "Vite">
 <img align="center" alt="React Testing Library" height="30" src="https://github.com/abel-mariano/trybe-exercicios/assets/120792207/6b372281-5c1f-4f49-82de-53ff951f6713" title = "React Testing Library">
 <img align="center" alt="Redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "Redux">
 <img align="center" alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title = "Photoshop">
