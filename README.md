@@ -11,6 +11,7 @@
 - 🤝 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: abelwm25@gmail.com
 - ⚡ Nice fact: I also like to manipulate images
+<br />
 
 ### Reach me on LinkedIn:
 <a href="https://www.linkedin.com/in/abelmariano/">
@@ -19,7 +20,6 @@
 <br />
 
 ### Languages and Tools:
-<br />
 
 <div style="display: inline_block">
 <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git">
