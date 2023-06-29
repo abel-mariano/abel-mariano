@@ -5,7 +5,7 @@
 
 ### Welcome! My name is Abel Mariano and I’m currently learning full stack web development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<img style="marginBotton: 5" align="right" src="https://user-images.githubusercontent.com/120792207/234715994-840251ae-6f04-4995-8874-ca3f9f7972df.gif" alt="Coder Naruto Gif" width="420">
+<img align="right" src="https://user-images.githubusercontent.com/120792207/234715994-840251ae-6f04-4995-8874-ca3f9f7972df.gif" alt="Coder Naruto Gif" width="420">
 
 - 🧑🏻‍💻 I am currently studying at Trybe 💚
 - 🤝 I’m looking to collaborate on full stack projects
@@ -19,6 +19,7 @@
 <br />
 
 ### Languages and Tools:
+<br />
 
 <div style="display: inline_block">
 <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git">
