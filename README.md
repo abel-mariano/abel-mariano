@@ -5,7 +5,7 @@
 
 ### Welcome! My name is Abel Mariano and I’m currently learning full stack web development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<img align="right" src="https://user-images.githubusercontent.com/120792207/234715994-840251ae-6f04-4995-8874-ca3f9f7972df.gif" alt="Coder Naruto Gif" width="420">
+<img align="right" src="./assets/naruto-dev.gif" alt="Coder Naruto Gif" width="420">
 
 - 🧑🏻‍💻 I am currently studying at Trybe 💚
 - 🤝 I’m looking to collaborate on full stack projects
@@ -14,9 +14,15 @@
 <br />
 
 ### Reach me on LinkedIn:
-<a href="https://www.linkedin.com/in/abelmariano/">
-  <img align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/abelmariano/">
+    <img style="margin-right: 5px" align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+
+  <a href="https://www.instagram.com/abelwm/">
+    <img align="left" marginLeft="4" alt="Git" height="30" src="./assets/Instagram-Icon.png" />
+  </a>
+</div>
 <br />
 
 ### Fundamentals:
