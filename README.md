@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://www.instagram.com/abelwm/">
-    <img align="left" marginLeft="4" alt="Git" height="30" src="./assets/Instagram-Icon.png" />
+    <img align="left" alt="Git" height="30" src="./assets/Instagram-Icon.png" />
   </a>
 </div>
 <br />
