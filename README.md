@@ -27,9 +27,7 @@
 
 ### 👨‍💻 Programming language
 
-<div style="display: inline_block">
-   <img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title = "Javascript">
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 💻 Web Dev
 
@@ -39,50 +37,32 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-<!--<div style="display: inline_block">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title = "Html5">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title = "Css3">
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title = "Javascript">
-  <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title = "React">
-  <img align="center" alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title = "Vite">
-  <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title = "Redux">
-</div>-->
 
 ### ⚙️ Back-end Dev
 
-<div style="display: inline_block">
-  <img align="center" alt="Node.Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title = "Node.Js">
-</div>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗃️ Databases
 
-<div style="display: inline_block">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white" title = "MySQL">
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ✒️ Design Tools
 
-<div style="display: inline_block">
-  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-001e36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#31a8ff" title = "Photoshop">
-   <img align="center" alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-330000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#ff9a00" title = "Illustrator">
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title = "Figma">
-</div>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-001e36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#31a8ff)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-330000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#ff9a00)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🛠️ Devops Tools
 
-<div style="display: inline_block">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title = "Git">
-  <img align="center" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title = "Github">
-  <img align="center" alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" title = "Bash">
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-003f8c.svg?style=for-the-badge&logo=docker&logoColor=white" title = "Docker">
-</div>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-003f8c.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 👨‍🔬 Tests
 
-<div style="display: inline_block">
-  <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title = "Jest">
-  <img align="center" alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" title = "React Testing Library">
-</div>
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 <!--
 ### ☁️ Clouds
@@ -92,12 +72,10 @@
 </div>
 -->
 
-### 📅 Management and Communication
+### 📅💬 Management and Communication
 
-<div style="display: inline_block">
-  <img align="center" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title = "Slack">
-  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title = "Trello">
-</div>
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### Languages and Tools:
 
