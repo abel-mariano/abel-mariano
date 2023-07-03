@@ -13,7 +13,7 @@
 - ⚡ Nice fact: I also like to manipulate images
 <br />
 
-### Reach me on LinkedIn:
+### Reach me on:
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/abelmariano/">
     <img style="margin-right: 5px" align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
