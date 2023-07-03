@@ -6,12 +6,12 @@
 ### Welcome! My name is Abel Mariano and I’m currently learning full stack web development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <img align="right" src="./assets/naruto-dev.gif" alt="Coder Naruto Gif" width="420">
+<br />
 
 - 🧑🏻‍💻 I'm currently studying Web development 💚
 - 🤝 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: abelwm25@gmail.com
 - ⚡ Free time: games, movies, TV shows, anime, gym
-<br />
 
 ### Reach me on:
 <div style="display: inline_block">
