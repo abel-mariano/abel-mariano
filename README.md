@@ -7,67 +7,113 @@
 
 <img align="right" src="./assets/naruto-dev.gif" alt="Coder Naruto Gif" width="420">
 
-- 🧑🏻‍💻 I am currently studying at Trybe 💚
+- 🧑🏻‍💻 I'm currently studying Web development 💚
 - 🤝 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: abelwm25@gmail.com
-- ⚡ Nice fact: I also like to manipulate images
+- ⚡ Free time: games, movies, TV shows, anime, gym
 <br />
 
 ### Reach me on:
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/abelmariano/">
-    <img style="margin-right: 5px" align="left" alt="Git" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Linkedin" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-
   <a href="https://www.instagram.com/abelwm/">
-    <img align="left" alt="Git" height="30" src="./assets/Instagram-Icon.png" />
+    <img align="left" alt="Instagram" height="30" src="./assets/Instagram-Icon.png" />
   </a>
 </div>
 <br />
+<br />
 
-### Fundamentals:
+### Programming language 👩‍💻
 
 <div style="display: inline_block">
-	<img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title = "Git">
-  <img align="center" alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" title = "Bash">
+   <img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title = "Javascript">
+</div>
+
+### Web Dev 💻
+
+<div style="display: inline_block">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title = "Html5">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title = "Css3">
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title = "Javascript">
-  <img align="center" alt="Node.Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title = "Node.Js">
-  <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title = "Jest">
-  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title = "Photoshop">
-  <img align="center" alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title = "Illustrator">
-  <img align="center" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title = "Slack">
-  <img align="center" alt="Slack" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title = "Trello">
+  <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title = "React">
+  <img align="center" alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title = "Vite">
+  <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title = "Redux">
 </div>
 
-### Front-end:
+### Back-end Dev ⚙️
 
 <div style="display: inline_block">
-	<img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title = "React">
-  <img align="center" alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" title = "Vite">
+  <img align="center" alt="Node.Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title = "Node.Js">
+</div>
+
+### Databases 🗃️
+
+<div style="display: inline_block">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white" title = "MySQL">
+</div>
+
+### Design Tools ✒️
+
+<div style="display: inline_block">
+  <img align="center" alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-001e36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=#31a8ff" title = "Photoshop">
+   <img align="center" alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-330000.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=#ff9a00" title = "Illustrator">
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title = "Figma">
+</div>
+
+### Devops Tools 🛠️
+
+<div style="display: inline_block">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title = "Git">
+  <img align="center" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title = "Github">
+  <img align="center" alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" title = "Bash">
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-003f8c.svg?style=for-the-badge&logo=docker&logoColor=white" title = "Docker">
+</div>
+
+### Tests 👨‍🔬
+
+<div style="display: inline_block">
+  <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" title = "Jest">
   <img align="center" alt="React Testing Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" title = "React Testing Library">
-  <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" title = "Redux">
+</div>
+
+<!--
+### Clouds ☁️
+
+<div style="display: inline_block">
+ 
+</div>
+-->
+
+### Management and Communication 📅
+
+<div style="display: inline_block">
+  <img align="center" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" title = "Slack">
+  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" title = "Trello">
 </div>
 
 ### Languages and Tools:
 
 <div style="display: inline_block">
-<img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git">
-<img align="center" alt="Bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "Bash">
-<img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "Html5">
-<img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "Css3">
-<img align="center" alt="Javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "Javascript">
-<img align="center" alt="Node.Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node.Js">
-<img align="center" alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest">
-<img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React">
-<img align="center" alt="Vite" height="30" src="https://github.com/abel-mariano/trybe-exercicios/assets/120792207/881678ee-b8d2-4c0b-977f-c5ed94faad81" title = "Vite">
-<img align="center" alt="React Testing Library" height="30" src="https://github.com/abel-mariano/trybe-exercicios/assets/120792207/6b372281-5c1f-4f49-82de-53ff951f6713" title = "React Testing Library">
-<img align="center" alt="Redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "Redux">
-<img align="center" alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title = "Photoshop">
-<img align="center" alt="illustrator" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title = "Illustrator">
-<img align="center" alt="Slack" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title = "Slack">
-<img align="center" alt="Slack" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title = "Trello">
+  <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git">
+  <img align="center" alt="Bash" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = "Bash">
+  <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "Html5">
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "Css3">
+  <img align="center" alt="Javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "Javascript">
+  <img align="center" alt="Node.Js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node.Js">
+  <img align="center" alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest">
+  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React">
+  <img align="center" alt="Vite" height="30" src="https://github.com/abel-mariano/trybe-exercicios/assets/120792207/881678ee-b8d2-4c0b-977f-c5ed94faad81" title = "Vite">
+  <img align="center" alt="React Testing Library" height="30" src="https://github.com/abel-mariano/trybe-exercicios/assets/120792207/6b372281-5c1f-4f49-82de-53ff951f6713" title = "React Testing Library">
+  <img align="center" alt="Redux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "Redux">
+  <img align="center" alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title = "Docker">
+  <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL">
+  <img align="center" alt="Photoshop" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title = "Photoshop">
+  <img align="center" alt="illustrator" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title = "Illustrator">
+  <img align="center" alt="Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title = "Figma">
+  <img align="center" alt="Slack" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title = "Slack">
+  <img align="center" alt="Trello" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title = "Trello">
 </div>
 <br />
 
