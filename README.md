@@ -16,10 +16,10 @@
 ### Reach me on:
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/abelmariano/">
-    <img align="left" alt="Linkedin" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Linkedin" height="30" src="./assets/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/abelwm/">
-    <img align="left" alt="Instagram" height="30" src="./assets/Instagram-Icon.png" />
+    <img align="left" alt="Instagram" height="30" src="./assets/instagram.png" />
   </a>
 </div>
 <br />
