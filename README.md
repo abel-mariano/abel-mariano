@@ -3,7 +3,7 @@
 <img align="center" alt="abel-mariano" src="https://img.shields.io/github/followers/abel-mariano.svg?style=social&label=Follow&maxAge=2592000">
 </div>
 
-### Welcome! My name is Abel Mariano and I’m currently learning full stack web development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### Welcome! My name is Abel Mariano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <img align="right" src="./assets/naruto-dev.gif" alt="Coder Naruto Gif" width="420">
 <br />
@@ -57,14 +57,13 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-003f8c.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 👨‍🔬 Tests
+<!--### 👨‍🔬 Tests
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)-->
 
 <!--
 ### ☁️ Clouds
